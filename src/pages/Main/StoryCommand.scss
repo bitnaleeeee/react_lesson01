@@ -1,0 +1,33 @@
+.storyCommand,
+.followCommand {
+  overflow: hidden;
+  padding: 10px 5px;
+  border: 1px solid #ccc;
+  margin-bottom: 20px;
+  background: #fff;
+  border-radius: 5px;
+}
+
+.moreTitle{
+  padding: 5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between
+}
+
+.text{
+  font-weight: bold;
+}
+
+.moreTitle button{
+  color: #999;
+  background: none;
+  border: none;
+}
+
+.addUl {
+  margin-top: 10px;
+}
+.item {
+  padding: 7px 5px 0;
+}
